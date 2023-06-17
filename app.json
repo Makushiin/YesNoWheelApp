@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "YesorNoWheelApp",
+    "slug": "YesorNoWheelApp",
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "YesorNoWheelApp"
+}

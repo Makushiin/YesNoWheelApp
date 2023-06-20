@@ -10,11 +10,11 @@ The Yes or No Wheel mobile app is a simple and fun tool designed to help users m
 
 ## Installation
 
-The Yes or No Wheel mobile app can be easily downloaded and installed from the App Store. Simply search for "Yes or No Wheel" and click on the "Get" or "Install" button to download and install the app on your iOS device.
+The Yes or No Wheel mobile app is not available on any app store. You can run it through the terminal using npx expo start and using the expo go app on the iPhone.
 
 ## Usage
 
-Once installed, the Yes or No Wheel app can be launched from your device's home screen. To use the wheel, follow these steps:
+To use the wheel, follow these steps:
 
 1. Open the app by tapping on its icon.
 2. Think of a question or dilemma.
@@ -31,6 +31,7 @@ The Yes or No Wheel mobile app is constantly being improved and expanded. Some p
 - Addition of a "maybe" option to introduce more variability.
 - Custom spin time to adjust the duration of the spinning animation.
 - Score tracking functionality to keep a record of past "yes" or "no" outcomes.
+- Uploading it onto the App Store
 
 ## Contributions
 
